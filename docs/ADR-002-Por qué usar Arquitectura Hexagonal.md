@@ -1,4 +1,4 @@
-# ADR-001 — Sistema de persistencia (H2 vs Mysql)
+# ADR-001 — ADR-002-Por qué usar Arquitectura Hexagonal
 
 **Fecha:** 2026-05-14
 **Estado:** ✅ Aceptado
